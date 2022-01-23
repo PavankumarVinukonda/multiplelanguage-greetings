@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.greeting-img {
+  height: 40vh;
+  width: 40vw;
+}

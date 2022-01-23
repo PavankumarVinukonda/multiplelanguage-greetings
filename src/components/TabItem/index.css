@@ -1,0 +1,21 @@
+.list-element {
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  border: solid 1px;
+  border-radius: 3px;
+}
+
+.name {
+  font-family: roboto;
+  font-size: 18px;
+
+  font-weight: solid;
+  background-color: transparent;
+  border: 0px;
+}
+
+.red {
+  color: palevioletred;
+  color: white;
+}
